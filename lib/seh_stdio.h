@@ -1,6 +1,8 @@
 /*
  * seh_stdio.h
  *
+ * STM32 Extended HAL
+ *
  *  Created on: Nov 2, 2021
  *      Author: irmus
  */
